@@ -1,31 +1,4 @@
-Skip to content
-luckypikas
-luckypikasgo
-Repository navigation
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-luckypikasgo/ABOUT
-/keeper-of-the-scrolls
-Go to file
-t
-luckypikas
-luckypikas
-Create keeper-of-the-scrolls
-0d86b7e
- · 
-16 minutes ago
 
-Code
-
-Blame
-32 lines (16 loc) · 3.01 KB
 The Seeker: The Keeper Of The Scrolls Of Power
 This is the heart of the Pikaverse. This is where the full story is told.
 
